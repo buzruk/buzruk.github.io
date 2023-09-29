@@ -1,2 +1,2 @@
-# buzruk.github.io
-My potrfolio website
+# My potrfolio website
+
